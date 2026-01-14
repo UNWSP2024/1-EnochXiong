@@ -8,5 +8,4 @@ he will not stand before obscure men.”
 
      (Proverbs 22:29)')
     
-
 proverbs_22_29()
